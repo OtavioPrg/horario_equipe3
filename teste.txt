@@ -1,1 +1,3 @@
 opas
+Criar 3 tabelas mo banco de dados: Diciplinas; rofessores & matéria
+Fazer um inerjoy para mostrar as 3 tabelas
