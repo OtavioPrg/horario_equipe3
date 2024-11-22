@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $db = 'ControleAulas';
-$user = 'root'; // substitua pelo seu usuário do MySQL
-$pass = ''; // substitua pela sua senha do MySQL
+$user = 'root'; 
+$pass = '';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
